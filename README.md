@@ -80,9 +80,7 @@ _______________________________________________________________
 
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) - Jasspfilho@gmail.com
 
-##Habilits
-
-## Habilidades
+## Habilits
 
  ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
  ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
