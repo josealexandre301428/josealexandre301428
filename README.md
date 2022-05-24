@@ -18,7 +18,9 @@
 ## Sobre mim
 
 ![](https://github-readme-stats.vercel.app/api?username=josealexandre301428)
+_______________________________________________________________
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre301428)
+_______________________________________________________________
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josealexandre301428&theme=vue)
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT) - https://github.com/JASSPFilho
@@ -67,7 +69,9 @@
 ## About me
 
 ![](https://github-readme-stats.vercel.app/api?username=josealexandre301428)
+_______________________________________________________________
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre301428)
+_______________________________________________________________
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josealexandre301428&theme=vue)
 
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT) - https://github.com/JASSPFilho
