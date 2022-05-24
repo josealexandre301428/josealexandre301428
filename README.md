@@ -17,6 +17,9 @@
 
 ## Sobre mim
 
+https://github-readme-stats.vercel.app/api?username={josealexandre301428}
+https://github-readme-stats.vercel.app/api/top-langs/?username={josealexandre301428}
+
 ![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT) - https://github.com/JASSPFilho
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)  -  https://www.linkedin.com/in/jos%C3%A9-alexandre-da-silva-e-souza-pinto-filho/
