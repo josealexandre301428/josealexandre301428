@@ -1,18 +1,13 @@
-# Bem Vindo!
+# Bem-vindo ao meu perfil no GitHub!
 
- 
+Meu nome é José Alexandre, sou um desenvolvedor web júnior apaixonado por tecnologia e sempre buscando aprender mais e crescer na minha carreira. Aqui você encontrará alguns dos meus projetos pessoais e algumas informações sobre mim.
 
-## Eu sou o José Alexandre!
-
- 
 
 :computer: Eu sou Estudante em  Dev web Full Stack pela Trybe!
 
 :house_with_garden: Sou Brasileiro.
 
 :books: Eu sempre estou lendo e aprendendo sobre tudo!
-
-:outbox_tray: 2022 Goals: Me formar e conseguir um emprego na area!
 
 
 ## Sobre mim
