@@ -3,7 +3,7 @@
 Meu nome é José Alexandre, sou um desenvolvedor web júnior apaixonado por tecnologia e sempre buscando aprender mais e crescer na minha carreira. Aqui você encontrará alguns dos meus projetos pessoais e algumas informações sobre mim.
 
 
-:computer: Eu sou Estudante em  Dev web Full Stack pela Trybe!
+:computer: Dev web Full Stack pela Trybe!
 
 :house_with_garden: Sou Brasileiro.
 
