@@ -1,105 +1,162 @@
-# Bem-vindo ao meu perfil no GitHub!
+# José Alexandre Pinto Filho
 
-Meu nome é José Alexandre, sou um desenvolvedor web júnior apaixonado por tecnologia e sempre buscando aprender mais e crescer na minha carreira. Aqui você encontrará alguns dos meus projetos pessoais e algumas informações sobre mim.
+**Eletricista de Força e Controle | Automação Industrial | Instrumentação | Industrial Data Analytics**
 
+📍 Nova Lima/MG, Brasil  
+🎯 Em evolução para **Automação Industrial + Dados Industriais**
 
-:computer: Dev web Full Stack pela Trybe!
-
-:house_with_garden: Sou Brasileiro.
-
-:books: Eu sempre estou lendo e aprendendo sobre tudo!
-
+---
 
 ## Sobre mim
 
-![](https://github-readme-stats.vercel.app/api?username=josealexandre301428)
-_______________________________________________________________
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre301428)
-_______________________________________________________________
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josealexandre301428&theme=vue)
+Sou profissional com experiência em **manutenção elétrica industrial, automação, instrumentação e comissionamento** em ambientes de mineração e indústria pesada.
 
-## Habilidades
+Atuo com sistemas de força e controle, painéis elétricos, CCMs, sensores, transmissores, bombas, motores, testes de campo, diagnóstico de falhas e apoio à automação industrial.
 
- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
- ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
- ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
- ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
- ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
- ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
- ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
- ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
- ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
- 
- 
-##  Contato
-Se você quiser entrar em contato comigo, sinta-se à vontade para enviar um email para Jasspfilho@gmail.com. Também estou disponível no LinkedIn em https://www.linkedin.com/in/jos%C3%A9-alexandre-da-silva-e-souza-pinto-filho/.
+Também possuo formação e experiência em tecnologia, com base em **desenvolvimento Full Stack**, **Python**, **SQL**, **Power BI** e análise de dados. Meu objetivo é unir a vivência prática de campo com dados industriais para gerar indicadores, automações, dashboards e soluções voltadas à confiabilidade operacional.
 
-Obrigado por visitar meu perfil e espero ter a chance de trabalhar com você em um projeto futuro!
+---
 
+## Industrial Career OS
 
---------Eng--------------
+Este perfil faz parte do projeto **Industrial Career OS**, um sistema pessoal de documentação técnica, portfólio e evolução profissional.
 
+O objetivo é transformar experiências reais de campo em:
 
+- Estudos de caso técnicos;
+- Dashboards industriais;
+- Scripts em Python;
+- Consultas SQL;
+- Documentação sobre automação e instrumentação;
+- Projetos de dados industriais;
+- Materiais para carreira nacional e internacional.
 
-# Welcome to my GitHub profile!
+---
 
-My name is José Alexandre, I'm a junior web developer passionate about technology and always looking to learn more and grow in my career. Here you will find some of my personal projects and some information about me
+## Áreas de atuação
 
- 
+- ⚡ Elétrica Industrial
+- 🤖 Automação Industrial
+- 📡 Instrumentação Industrial
+- 🏭 Mineração
+- 🔧 Comissionamento e Start-up
+- 🧠 Diagnóstico de Falhas
+- 📊 Dados Industriais
+- 📈 Indicadores de Manutenção
 
-:computer: I'm Dev web Full Stack student at TRYBE!
+---
 
-:house_with_garden: I’m from Brazil.
+## Competências técnicas
 
-:books: I’m currently learning about everything.
+### Industrial
 
-:outbox_tray: 2022 Goals: create a new project and find a new job.
+- Força e Controle
+- CCMs
+- Motores elétricos
+- Bombas
+- Sensores industriais
+- Transmissores FIT / LIT / PIT
+- Pressostatos e chaves de nível
+- Válvulas solenoides
+- Intertravamentos
+- Testes de campo
+- Leitura e interpretação de diagramas elétricos
+- NR-10, NR-12 e NR-18
 
+### Dados e tecnologia
 
-## About me
+- Python
+- SQL
+- Power BI
+- Pandas
+- JavaScript / TypeScript
+- React
+- Node.js
+- MySQL
+- MongoDB
+- Git e GitHub
+- Docker
 
-![](https://github-readme-stats.vercel.app/api?username=josealexandre301428)
-_______________________________________________________________
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre301428)
-_______________________________________________________________
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josealexandre301428&theme=vue)
+---
 
+## Tecnologias
 
-## Habilits
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
- ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
- ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
- ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
- ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
- ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
- ![](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
- ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
- ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
- ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
- ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
- ![](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
- ![](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+---
 
+## Projetos em construção
 
-# Contact
+### Industrial Career OS
 
-If you want to contact me, feel free to send an email to Jasspfilho@gmail.com. I am also available on LinkedIn at https://www.linkedin.com/in/jos%C3%A9-alexandre-da-silva-e-souza-pinto-filho/?locale=en_US.
+Sistema pessoal de carreira, documentação técnica e portfólio industrial.
 
-Thank you for visiting my profile and I hope to have the chance to work with you on a future project!
+### Industrial Knowledge Base
+
+Biblioteca técnica sobre instrumentação, automação, elétrica industrial e troubleshooting.
+
+### Industrial Dashboards
+
+Dashboards para indicadores como:
+
+- MTBF;
+- MTTR;
+- Disponibilidade;
+- PCM;
+- Bombas;
+- Alarmes;
+- Sensores e vazão.
+
+### Python Industrial
+
+Scripts para tratamento, análise e visualização de dados industriais.
+
+### SQL Industrial
+
+Consultas, modelagens e indicadores voltados à manutenção e operação industrial.
+
+### Automation Case Studies
+
+Estudos de caso baseados em experiências reais de campo, sem exposição de informações confidenciais.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josealexandre301428&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josealexandre301428&layout=compact&theme=vue)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josealexandre301428&theme=vue)
+
+---
+
+## Objetivos para 2026
+
+- Consolidar um portfólio técnico em automação e dados industriais;
+- Publicar estudos de caso reais, removendo informações confidenciais;
+- Criar dashboards industriais com Power BI;
+- Desenvolver projetos em Python e SQL aplicados à manutenção;
+- Evoluir para oportunidades em automação, instrumentação, suporte técnico e dados industriais;
+- Preparar uma base profissional para oportunidades nacionais e internacionais.
+
+---
+
+## Contato
+
+- 📧 Email: jasspfilho@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/jos%C3%A9-alexandre-da-silva-e-souza-pinto-filho/
+- 🐙 GitHub: https://github.com/josealexandre301428
+
+---
+
+> Este perfil está em evolução contínua como parte do projeto **Industrial Career OS**.
