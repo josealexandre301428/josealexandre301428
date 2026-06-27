@@ -1,19 +1,19 @@
 # José Alexandre Pinto Filho
 
-**Eletricista de Força e Controle | Automação Industrial | Instrumentação | Industrial Data Analytics**
+**Eletricista de Força e Controle | Automação Industrial | Instrumentação | Comissionamento**
 
 📍 Nova Lima/MG, Brasil  
-🎯 Em evolução para **Automação Industrial + Dados Industriais**
+🎯 Foco profissional: **Automação Industrial, Instrumentação, Elétrica Industrial e Field Service**
 
 ---
 
 ## Sobre mim
 
-Sou profissional com experiência em **manutenção elétrica industrial, automação, instrumentação e comissionamento** em ambientes de mineração e indústria pesada.
+Sou profissional com experiência em **elétrica industrial, força e controle, automação, instrumentação e comissionamento** em ambientes de mineração e indústria pesada.
 
-Atuo com sistemas de força e controle, painéis elétricos, CCMs, sensores, transmissores, bombas, motores, testes de campo, diagnóstico de falhas e apoio à automação industrial.
+Atuo com montagem, testes, diagnóstico de falhas e apoio à automação em sistemas industriais envolvendo painéis elétricos, CCMs, motores, bombas, sensores, transmissores, botoeiras, emergências, válvulas solenoides e intertravamentos.
 
-Também possuo formação e experiência em tecnologia, com base em **desenvolvimento Full Stack**, **Python**, **SQL**, **Power BI** e análise de dados. Meu objetivo é unir a vivência prática de campo com dados industriais para gerar indicadores, automações, dashboards e soluções voltadas à confiabilidade operacional.
+Minha base principal é a atuação prática de campo. Também possuo conhecimentos complementares em tecnologia, como **Git/GitHub, Python, SQL, JavaScript, React e Node.js**, que utilizo como diferencial para documentação técnica, organização de projetos e evolução futura em automação com dados industriais.
 
 ---
 
@@ -24,25 +24,24 @@ Este perfil faz parte do projeto **Industrial Career OS**, um sistema pessoal de
 O objetivo é transformar experiências reais de campo em:
 
 - Estudos de caso técnicos;
-- Dashboards industriais;
-- Scripts em Python;
-- Consultas SQL;
-- Documentação sobre automação e instrumentação;
-- Projetos de dados industriais;
-- Materiais para carreira nacional e internacional.
+- Biblioteca técnica de automação e instrumentação;
+- Documentação de troubleshooting;
+- Registros de comissionamento;
+- Projetos de melhoria e padronização;
+- Materiais para currículo, entrevistas e carreira.
 
 ---
 
 ## Áreas de atuação
 
 - ⚡ Elétrica Industrial
+- 🔌 Força e Controle
 - 🤖 Automação Industrial
 - 📡 Instrumentação Industrial
 - 🏭 Mineração
 - 🔧 Comissionamento e Start-up
 - 🧠 Diagnóstico de Falhas
-- 📊 Dados Industriais
-- 📈 Indicadores de Manutenção
+- 🛠️ Field Service / Técnico de Campo
 
 ---
 
@@ -52,43 +51,45 @@ O objetivo é transformar experiências reais de campo em:
 
 - Força e Controle
 - CCMs
+- Painéis elétricos
 - Motores elétricos
-- Bombas
+- Bombas industriais
 - Sensores industriais
 - Transmissores FIT / LIT / PIT
 - Pressostatos e chaves de nível
+- Botoeiras e emergências
 - Válvulas solenoides
 - Intertravamentos
 - Testes de campo
+- Comissionamento
 - Leitura e interpretação de diagramas elétricos
 - NR-10, NR-12 e NR-18
 
-### Dados e tecnologia
+### Tecnologia como diferencial
 
-- Python
-- SQL
-- Power BI
-- Pandas
+- Git e GitHub
+- Python básico/intermediário
+- SQL básico/intermediário
 - JavaScript / TypeScript
 - React
 - Node.js
 - MySQL
 - MongoDB
-- Git e GitHub
 - Docker
+- Linux
 
 ---
 
-## Tecnologias
+## Tecnologias e ferramentas
 
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -102,31 +103,19 @@ Sistema pessoal de carreira, documentação técnica e portfólio industrial.
 
 ### Industrial Knowledge Base
 
-Biblioteca técnica sobre instrumentação, automação, elétrica industrial e troubleshooting.
-
-### Industrial Dashboards
-
-Dashboards para indicadores como:
-
-- MTBF;
-- MTTR;
-- Disponibilidade;
-- PCM;
-- Bombas;
-- Alarmes;
-- Sensores e vazão.
-
-### Python Industrial
-
-Scripts para tratamento, análise e visualização de dados industriais.
-
-### SQL Industrial
-
-Consultas, modelagens e indicadores voltados à manutenção e operação industrial.
+Biblioteca técnica sobre automação, instrumentação, elétrica industrial, comissionamento e troubleshooting.
 
 ### Automation Case Studies
 
 Estudos de caso baseados em experiências reais de campo, sem exposição de informações confidenciais.
+
+### Instrumentation Notes
+
+Registros técnicos sobre instrumentos, transmissores, sinais 4-20 mA, alarmes, parametrização e diagnóstico.
+
+### Python / SQL Industrial — Futuro
+
+Projetos simples de apoio à manutenção e automação, usando Python e SQL como ferramentas complementares para organização e análise de dados técnicos.
 
 ---
 
@@ -142,12 +131,11 @@ Estudos de caso baseados em experiências reais de campo, sem exposição de inf
 
 ## Objetivos para 2026
 
-- Consolidar um portfólio técnico em automação e dados industriais;
+- Consolidar um portfólio técnico em automação, instrumentação e elétrica industrial;
 - Publicar estudos de caso reais, removendo informações confidenciais;
-- Criar dashboards industriais com Power BI;
-- Desenvolver projetos em Python e SQL aplicados à manutenção;
-- Evoluir para oportunidades em automação, instrumentação, suporte técnico e dados industriais;
-- Preparar uma base profissional para oportunidades nacionais e internacionais.
+- Documentar aprendizados de campo em comissionamento e troubleshooting;
+- Fortalecer minha atuação para oportunidades em automação, instrumentação, field service e comissionamento;
+- Usar GitHub como base de documentação técnica e evolução profissional.
 
 ---
 
